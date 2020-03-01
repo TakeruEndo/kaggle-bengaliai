@@ -1,1 +1,2 @@
-ベンガル文字（書記素）は、grapheme_root、vowel_diacritic、およびconsonant_diacriticの3つのコンポーネントを組み合わせて作成。
+## Bengali.AI Handwritten Grapheme Classification
+
